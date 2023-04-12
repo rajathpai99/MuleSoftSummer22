@@ -25,7 +25,7 @@
     
 		<!-- Mule logger -->        
         <AsyncLogger name="org.mule.runtime.core.internal.processor.LoggerMessageProcessor" level="INFO"/>
-        <!-- Test Comment -->
+        <!-- Test Comment 12APr -->
         <AsyncRoot level="INFO">
             <AppenderRef ref="file" />
         </AsyncRoot>
